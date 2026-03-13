@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Anass El Ouardy - Portfolio
 
 A stunning portfolio website showcasing my skills as an IT Technician.
@@ -29,3 +30,6 @@ Email: anasselouardy@gmail.com
 Location: Marrakech, Maroc
 
 Links: [GitHub](https://github.com/anasselouardy) | [LinkedIn](https://www.linkedin.com/in/anass-el-ouardy-16282520a)
+=======
+# portfolio
+>>>>>>> 1e8c8ca3e0ecbe054fe31a6edc5ba28093e646fc
